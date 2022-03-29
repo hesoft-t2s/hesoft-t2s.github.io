@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>安裝 T2S on T2S</title>
+    <link>https://hesoft-t2s.github.io/zh/docs/install/</link>
+    <description>Recent content in 安裝 T2S on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/zh/docs/install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>下載 APK</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/install/download_apk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/install/download_apk/</guid>
+      <description>function changeFrameHeight(){ var ifm= document.getElementById(&#34;mainiframe&#34;); ifm.height=document.documentElement.clientHeight-56; } $(function(){ window.onresize=function(){ changeFrameHeight(); }});   如果下載鏈接沒有顯示，點這裏</description>
+    </item>
+    
+  </channel>
+</rss>

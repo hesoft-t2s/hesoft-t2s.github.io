@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T2S</title>
+    <link>https://hesoft-t2s.github.io/</link>
+    <description>Recent content on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download APK</title>
+      <link>https://hesoft-t2s.github.io/docs/install/download_apk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/docs/install/download_apk/</guid>
+      <description>function changeFrameHeight(){ var ifm= document.getElementById(&#34;mainiframe&#34;); ifm.height=document.documentElement.clientHeight-56; } $(function(){ window.onresize=function(){ changeFrameHeight(); }});   Click me if download link not display</description>
+    </item>
+    
+    <item>
+      <title>Manufacturers Restriction</title>
+      <link>https://hesoft-t2s.github.io/docs/troubleshooting/foem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/docs/troubleshooting/foem/</guid>
+      <description>Issue Description In order to extend the battery life of their products, manufacturers destructively restrict apps background functions.
+If the following error occurs frequently, it is probably caused by this reason.
+  App automatically closes during background playback
+  An error message shows: speech engine error or speech engine no response
+  After the screen is off, the speech is paused or intermittently
+  Solution Please visit dontkillmyapp.</description>
+    </item>
+    
+    <item>
+      <title>Issues with old version of the Google Speech Service</title>
+      <link>https://hesoft-t2s.github.io/docs/troubleshooting/google_tts_issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/docs/troubleshooting/google_tts_issue/</guid>
+      <description> This issue has been resolved in the new version of Google speech service, please use latest version of Google speech service.
+ If you previously uncheck automatic updates   Open play store page of Google Speech Service via this link, or search &amp;quot;Speech Services by Google&amp;quot; in Google Play.
+  Re-check it
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hesoft-t2s.github.io/privacy_policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/privacy_policy/</guid>
+      <description>Privacy Policy for T2S This Privacy Policy describes how and when the T2S application collects, processes, uses and shares data your information when you use the application.
+By using the application services, you agree to provide consent to our collection, use and sharing of your information as described in this policy.
+1 Data Collection and Use 1.1 For Improving User Experience For the purpose of improving user experience, fixing bugs and understanding how you use the application, this application collects the following information:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hesoft-t2s.github.io/terms_of_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/terms_of_service/</guid>
+      <description>Terms of Service for T2S By downloading or using the our application service, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using our service.
+You must be at least 16 years old to use the Service. If you are aged 16 but under 18 years of age, you and your parent or guardian must review this Terms and the Privacy Policy together.</description>
+    </item>
+    
+  </channel>
+</rss>

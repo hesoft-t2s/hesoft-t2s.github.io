@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T2S</title>
+    <link>https://hesoft-t2s.github.io/zh/</link>
+    <description>Recent content on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>下載 APK</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/install/download_apk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/install/download_apk/</guid>
+      <description>function changeFrameHeight(){ var ifm= document.getElementById(&#34;mainiframe&#34;); ifm.height=document.documentElement.clientHeight-56; } $(function(){ window.onresize=function(){ changeFrameHeight(); }});   如果下載鏈接沒有顯示，點這裏</description>
+    </item>
+    
+    <item>
+      <title>系統限制背景應用造成的各種問題</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/troubleshooting/foem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/troubleshooting/foem/</guid>
+      <description>問題描述 裝置製造商為延長其產品續航時間，對作業系統進行了破壞性的修改，限制應用正常背景執行功能。
+如果以下錯誤頻繁出現，則很可能是由該原因造成。
+  背景播放期間應用自動關閉
+  提示朗讀引擎錯誤或無回應
+  息屏後朗讀暫停，或斷斷續續
+  解決方法 由於裝置型號眾多，系統版本各異，這裡不可能有一個詳細的解決辦法。 請透過在搜尋引擎搜尋 [你的裝置型號] + &amp;quot;允許背景執行&amp;quot; 關鍵字尋找解決辦法。
+一般的解決步驟是在系統設置中找到電池優化或背景運行限制設定，更改設定允許 T2S 和朗讀引擎應用在背景運行。
+更多資料 dontkillmyapp.com (英文)</description>
+    </item>
+    
+    <item>
+      <title>舊版 Google 朗讀引擎問題</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/troubleshooting/google_tts_issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/troubleshooting/google_tts_issue/</guid>
+      <description> 此問題已在新版 Google 語音服務中解決
+ 如果您之前取消了自動更新   透過 這個連結 或在 Google Play 中搜索 &amp;quot;Google 語音服務&amp;quot; 開啟它的商店頁面。
+  重新勾選 啟用自動更新。
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hesoft-t2s.github.io/zh/privacy_policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/privacy_policy/</guid>
+      <description>T2S 隱私權政策 本隱私政策描述了 T2S 應用程式如何以及何時收集、處理、使用和共享您的資訊。
+使用我們的應用和服務，即表示您同意我們按照本政策所述收集、使用和共享您的資訊。
+1 收集的資訊以及其用途 1.1 出於提升服務質量目的收集的資訊 出於改進服務質量，修復錯誤和了解應用使用情況的目的，本應用會收集以下資訊：
+ 錯誤資訊：一般錯誤資訊或程式錯誤堆疊，用於瞭解和修復應用程式中存在的錯誤。 裝置資訊：如裝置型號，作業系統版本，系統語言，系統記憶體使用情況。 效能資訊：應用啟動時間、幀生成時間、耗電量等。 基本使用情況：使用者經常使用哪些功能，以及是否成功完成某項操作。 朗讀引擎資訊：瞭解使用者使用的朗讀引擎服務資訊。 可重置裝置識別符號：瞭解錯誤或操作是否由同一裝置產生。 大致地理區域：透過 IP 地址瞭解使用者來自哪個國家或地區。只作彙總統計。   這些資訊不與您的個人身份資訊關聯，且不包含敏感資訊。 只能且只會用於提升服務質量。
+ 本應用使用 Google Analytics for Firebase 和 Firebase Crashlytics 收集這些資訊。
+1.2 基於興趣的廣告（適用於免費版使用者） Google Mobile Ads SDK 可能會收集和共享以下資料型別，目的是用於基於興趣的廣告、分析和欺詐防範：
+ IP 地址：收集裝置的 IP 地址（可用於估測裝置所在的大致位置）。 使用者如何與廣告互動。 診斷資訊：收集與應用和 SDK 的效能相關的資訊，包括 崩潰日誌、應用啟動時間、掛起率和耗電量。 裝置和帳號識別符號：收集 Android 廣告 ID、應用組 ID，如適用的話還會收集裝置上的登入賬戶有關的其他識別符號。  詳情
+1.3 交易/賬單資訊 根據您購買的訂閱或付費服務，我們的支付網關合作夥伴可能會收集資訊，包括但不限於您的信用卡/借記卡詳細資訊或其他銀行帳戶詳細資訊以及您的賬單地址。 此資訊由支付網關合作夥伴儲存。例如，服務將使用第三方支付網關合作夥伴來處理和促進您向服務支付訂閱費，以便為您提供訂閱訪問許可權；此類支付網關合作夥伴不受我們控制。 當您訪問此類支付閘道器時，您將自行承擔風險。我們鼓勵您在向此類支付閘道器提供有關您的資訊或與它們進行任何交易之前，先熟悉此類支付閘道器提供的隱私宣告。 對於此類支付閘道器、此類支付閘道器的內容及其隱私慣例，我們不承擔任何責任或義務。
+我們可能會從第三方供應商處收到財務或交易資訊（例如交易 ID 等）以用於付款、對賬和驗證交易以及解決投訴（如果交易失敗和退款）。
+1.4 由使用者的操作提供給第三方的資料 在您使用本應用的過程中，您的操作行為可能會提供個人資訊給第三方。這不是我們能控制的，您應該對此自行負責。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hesoft-t2s.github.io/zh/terms_of_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/terms_of_service/</guid>
+      <description>T2S 服務條款 透過下載或使用我們的服務，這些條款將自動適用於您，您應仔細閱讀它們。
+你必須至少年滿16歲才能使用本服務。 如果你年滿16歲但未滿18歲，你和你的父母或監護人必須一起審查本條款和隱私政策。
+隱私政策 請參考隱私政策，該政策在此被視為本條款的一部分。
+禁止行為 您不得：
+ 基於本應用程式或其任何部分的逆向工程、反編譯、反彙編、修改或建立衍生作品； 規避本應用程式或其許可方為保護透過本應用程式訪問的內容而使用的任何技術。 出租或再售賣本應用程式；  智慧財產權 出現在本應用程式中的所有標誌、圖形商標、商品名稱、服務標誌、文字標誌、插圖、影象或徽標，都是並且仍然是所有者或其許可人的專有財產，並受現行的商標法和相關國際條約保護。
+您創作的內容智慧財產權仍然歸您自己擁有。
+免責宣告 我們按“原樣”提供我們的服務，沒有任何明示或默示的保證，包括對適銷性、特定用途的適用性和不侵權的默示保證。例如，我們對服務的內容或功能（包括準確性、可靠性、可用性或滿足您需要的能力）不作任何保證。
+第三方 我們對第三方內容或資訊不承擔任何責任，也不贊同任何第三方網站上的材料，不對這些第三方網站內容的質量、準確性、來源、適銷性、適用性或任何其他方面提供任何保證。 如果您在應用中發現任何您認為不恰當或不正確的內容，請與我們聯絡。
+開發者資訊和聯絡方式 T2S 由 HE-SOFT 開發，電子郵件地址為：hesoft.developer@gmail.com
+本條款的更改 我們可能會不時更新我們的條款。因此，建議您定期檢視此頁面以瞭解任何更改。我們將透過在此頁面上釋出新的條款來通知您任何更改。
+本條款生效日期為 2022年1月25日。</description>
+    </item>
+    
+  </channel>
+</rss>

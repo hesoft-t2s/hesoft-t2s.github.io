@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on T2S</title>
+    <link>https://hesoft-t2s.github.io/docs/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/docs/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manufacturers Restriction</title>
+      <link>https://hesoft-t2s.github.io/docs/troubleshooting/foem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/docs/troubleshooting/foem/</guid>
+      <description>Issue Description In order to extend the battery life of their products, manufacturers destructively restrict apps background functions.
+If the following error occurs frequently, it is probably caused by this reason.
+  App automatically closes during background playback
+  An error message shows: speech engine error or speech engine no response
+  After the screen is off, the speech is paused or intermittently
+  Solution Please visit dontkillmyapp.</description>
+    </item>
+    
+    <item>
+      <title>Issues with old version of the Google Speech Service</title>
+      <link>https://hesoft-t2s.github.io/docs/troubleshooting/google_tts_issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/docs/troubleshooting/google_tts_issue/</guid>
+      <description> This issue has been resolved in the new version of Google speech service, please use latest version of Google speech service.
+ If you previously uncheck automatic updates   Open play store page of Google Speech Service via this link, or search &amp;quot;Speech Services by Google&amp;quot; in Google Play.
+  Re-check it
+  </description>
+    </item>
+    
+  </channel>
+</rss>

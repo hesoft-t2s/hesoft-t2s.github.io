@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>故障排除 on T2S</title>
+    <link>https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/</link>
+    <description>Recent content in 故障排除 on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>系统限制后台应用造成的各种问题</title>
+      <link>https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/foem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/foem/</guid>
+      <description>问题描述 设备制造商为延长其产品续航时间，对操作系统进行了破坏性的修改，限制应用正常后台功能。
+如果以下错误频繁出现，则很可能是由该原因造成。
+  后台播放期间应用自动关闭
+  提示朗读引擎错误或无响应
+  息屏后朗读暂停，或断断续续
+  解决方法 由于设备型号众多，系统版本各异，这里不可能有一个详细的解决办法。 请通过在搜索引擎搜索 [你的设备型号] + &amp;quot;允许后台运行&amp;quot; 关键字寻找解决办法。
+一般的解决步骤是在系统设置中找到电池优化或后台运行限制设置，更改设置允许 T2S 和朗读引擎应用在背景运行。
+更多资料 dontkillmyapp.com (英文)</description>
+    </item>
+    
+    <item>
+      <title>旧版 Google 朗读引擎问题</title>
+      <link>https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/google_tts_issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh-cn/docs/troubleshooting/google_tts_issue/</guid>
+      <description> 此问题已在新版 Google 语音服务中解决
+ 如果您之前取消了自动更新   通过 这个链接 或在 Google Play 中搜索 &amp;quot;Google 语音服务&amp;quot; 打开它的商店页面。
+  重新勾选 启用自动更新。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

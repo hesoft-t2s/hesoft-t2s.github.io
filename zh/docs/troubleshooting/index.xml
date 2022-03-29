@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>故障排除 on T2S</title>
+    <link>https://hesoft-t2s.github.io/zh/docs/troubleshooting/</link>
+    <description>Recent content in 故障排除 on T2S</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hesoft-t2s.github.io/zh/docs/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>系統限制背景應用造成的各種問題</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/troubleshooting/foem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/troubleshooting/foem/</guid>
+      <description>問題描述 裝置製造商為延長其產品續航時間，對作業系統進行了破壞性的修改，限制應用正常背景執行功能。
+如果以下錯誤頻繁出現，則很可能是由該原因造成。
+  背景播放期間應用自動關閉
+  提示朗讀引擎錯誤或無回應
+  息屏後朗讀暫停，或斷斷續續
+  解決方法 由於裝置型號眾多，系統版本各異，這裡不可能有一個詳細的解決辦法。 請透過在搜尋引擎搜尋 [你的裝置型號] + &amp;quot;允許背景執行&amp;quot; 關鍵字尋找解決辦法。
+一般的解決步驟是在系統設置中找到電池優化或背景運行限制設定，更改設定允許 T2S 和朗讀引擎應用在背景運行。
+更多資料 dontkillmyapp.com (英文)</description>
+    </item>
+    
+    <item>
+      <title>舊版 Google 朗讀引擎問題</title>
+      <link>https://hesoft-t2s.github.io/zh/docs/troubleshooting/google_tts_issue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hesoft-t2s.github.io/zh/docs/troubleshooting/google_tts_issue/</guid>
+      <description> 此問題已在新版 Google 語音服務中解決
+ 如果您之前取消了自動更新   透過 這個連結 或在 Google Play 中搜索 &amp;quot;Google 語音服務&amp;quot; 開啟它的商店頁面。
+  重新勾選 啟用自動更新。
+  </description>
+    </item>
+    
+  </channel>
+</rss>
